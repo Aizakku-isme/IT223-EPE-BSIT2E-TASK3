@@ -1,5 +1,5 @@
 # IT223 - Advanced Database Systems
-# By: Epe, John Isaac, Ramos, Nathaniel,  Razo, Althea Mae
+# By: (Epe, John Isaac), (Ramos, Nathaniel),  (Razo, Althea Mae)
 ## Task 3: Apply SQL Functions in Actual SQL Code
 
 ### Project Description
@@ -12,3 +12,4 @@ This project demonstrates the use of various SQL functions in MySQL through PHP 
 
 
 ### Project Structure
+
